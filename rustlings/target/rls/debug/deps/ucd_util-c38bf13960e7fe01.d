@@ -1,0 +1,11 @@
+c:\Users\Song\Documents\GitHub\rCore_2020\rustlings\target\rls\debug\deps\ucd_util-c38bf13960e7fe01.rmeta: C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\lib.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\hangul.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\ideograph.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\name.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\property.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\mod.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\jamo_short_name.rs
+
+c:\Users\Song\Documents\GitHub\rCore_2020\rustlings\target\rls\debug\deps\ucd_util-c38bf13960e7fe01.d: C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\lib.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\hangul.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\ideograph.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\name.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\property.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\mod.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\jamo_short_name.rs
+
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\lib.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\hangul.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\ideograph.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\name.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\property.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\mod.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.3\src\unicode_tables\jamo_short_name.rs:

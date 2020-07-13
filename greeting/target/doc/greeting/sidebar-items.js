@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main",""],["sum","Documents comments ： sum function This function is used to sum staff #usage: assert_eq!(3, sum(1,2));"]]});

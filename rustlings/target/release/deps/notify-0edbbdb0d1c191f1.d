@@ -1,0 +1,12 @@
+C:\Users\Song\Documents\GitHub\rCore_2020\rustlings\target\release\deps\notify-0edbbdb0d1c191f1.rmeta: C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\lib.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\windows.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\null.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\poll.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\mod.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\timer.rs
+
+C:\Users\Song\Documents\GitHub\rCore_2020\rustlings\target\release\deps\libnotify-0edbbdb0d1c191f1.rlib: C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\lib.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\windows.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\null.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\poll.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\mod.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\timer.rs
+
+C:\Users\Song\Documents\GitHub\rCore_2020\rustlings\target\release\deps\notify-0edbbdb0d1c191f1.d: C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\lib.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\windows.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\null.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\poll.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\mod.rs C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\timer.rs
+
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\lib.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\windows.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\null.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\poll.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\mod.rs:
+C:\Users\Song\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.15\src\debounce\timer.rs:
