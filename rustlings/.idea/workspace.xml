@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba8eae1c-dd3d-4a83-bd13-3ef967c6dd29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/exercises/functions/functions1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/functions/functions2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/functions/functions3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/functions/functions4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/functions/functions5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/functions/functions5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/if/if1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/if/if1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/if/if2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/if/if2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quiz1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quiz1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quiz2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/variables/variables6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/variables/variables6.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ecOZcyt6O64NimQrhc08DZ0wgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba8eae1c-dd3d-4a83-bd13-3ef967c6dd29" name="Default Changelist" comment="" />
+      <created>1594617471188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594617471188</updated>
+      <workItem from="1594617475393" duration="3220000" />
+      <workItem from="1594628568439" duration="50000" />
+      <workItem from="1594628632711" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1186" y="1706" width="623" height="295" key="#Notifications" timestamp="1594628659260">
+      <screen x="-1440" y="1404" width="1440" height="900" />
+    </state>
+    <state x="-1186" y="1706" width="623" height="295" key="#Notifications/-1440.1404.1440.900/0.0.1296.2304@-1440.1404.1440.900" timestamp="1594628659260" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+/Users/song/rustlings/target/release/deps/quote-bac4bd71170e0716.rmeta: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/song/rustlings/target/release/deps/libquote-bac4bd71170e0716.rlib: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/song/rustlings/target/release/deps/quote-bac4bd71170e0716.d: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs
+
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/lib.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ext.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/format.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/ident_fragment.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/to_tokens.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/runtime.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.7/src/spanned.rs:

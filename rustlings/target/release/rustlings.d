@@ -1,0 +1,1 @@
+/Users/song/rustlings/target/release/rustlings: /Users/song/rustlings/src/exercise.rs /Users/song/rustlings/src/main.rs /Users/song/rustlings/src/run.rs /Users/song/rustlings/src/ui.rs /Users/song/rustlings/src/verify.rs

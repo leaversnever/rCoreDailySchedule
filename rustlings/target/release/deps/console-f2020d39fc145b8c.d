@@ -1,0 +1,13 @@
+/Users/song/rustlings/target/release/deps/console-f2020d39fc145b8c.rmeta: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/common_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/kb.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/unix_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/utils.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/ansi.rs
+
+/Users/song/rustlings/target/release/deps/libconsole-f2020d39fc145b8c.rlib: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/common_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/kb.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/unix_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/utils.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/ansi.rs
+
+/Users/song/rustlings/target/release/deps/console-f2020d39fc145b8c.d: /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/lib.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/common_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/kb.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/unix_term.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/utils.rs /Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/ansi.rs
+
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/lib.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/common_term.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/kb.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/term.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/unix_term.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/utils.rs:
+/Users/song/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.11.3/src/ansi.rs:
